@@ -41,9 +41,8 @@
 
 
 <div align="center">
-  <img src="./animacao.gif" alt="Animação" width="900">
+  <img src="./225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" alt="GIF animado">
 </div>
-
 
 
 
