@@ -17,7 +17,7 @@
 
 - 🎓 Studying Applied and Computational Mathematics at UNICAMP.
 - 💼 Experience in Data Engineering and Data Analytics at Itaú Unibanco, working in the Wealth Management area.
-- 🐍 Experience with Python and SQL.
+- 🐍 Experience with Python, SQL and R.
 - 📊 Interested in Data Science, Artificial Intelligence, Machine Learning and Business Intelligence.
 - 🌍 Currently improving my English skills.
 - 🚀 Passionate about mathematics, technology and solving real-world problems.
